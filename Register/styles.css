@@ -1,0 +1,14 @@
+body {
+   padding-top: 60px;
+}
+
+#messageHeader {
+  margin-bottom: 2.5px;  
+}
+
+#messages {
+    background-color: black; 
+    height: 30px;
+    color: yellow;
+    text-align: center;
+}
